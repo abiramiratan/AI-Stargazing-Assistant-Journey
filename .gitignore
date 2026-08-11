@@ -3,3 +3,5 @@ __pycache__/
 .vscode/
 
 LST_Planet_Hour_Angle_Calculator/de421.bsp
+
+*.bsp
