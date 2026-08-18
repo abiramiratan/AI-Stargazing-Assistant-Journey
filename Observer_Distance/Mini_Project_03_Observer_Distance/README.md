@@ -1,4 +1,4 @@
-# Mini Project 04: Observatory Distance Calculator
+# Mini Project 03: Observatory Distance Calculator
 
 ## Project Overview
 
