@@ -5,3 +5,8 @@ __pycache__/
 LST_Planet_Hour_Angle_Calculator/de421.bsp
 
 *.bsp
+
+.venv/
+venv/
+.env
+de421.bsp
